@@ -1,0 +1,6 @@
+name: amr_to_wav_fix
+display_name: AMR to WAV Fix
+desc: 修复 NapCat AMR 语音无法被 STT 识别的问题，自动使用 ffmpeg 转换为 WAV
+version: v1.0.0
+author: makabaka11
+repo: https://github.com/makabaka11/amr_to_wav_fix
